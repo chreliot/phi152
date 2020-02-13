@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://chreliot.github.io/phi152/assignments/1/</loc>
+    <lastmod>2020-02-13T14:50:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi152/assignments/</loc>
+    <lastmod>2020-02-13T14:50:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi152/tags/assignments/</loc>
+    <lastmod>2020-02-13T14:50:45-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://chreliot.github.io/phi152/tags/</loc>
-    <lastmod>2020-02-13T11:03:15-05:00</lastmod>
+    <lastmod>2020-02-13T14:50:45-05:00</lastmod>
   </url>
   
   <url>
@@ -25,11 +40,6 @@
   <url>
     <loc>http://chreliot.github.io/phi152/topics/logic/</loc>
     <lastmod>2020-01-29T11:01:26-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chreliot.github.io/phi152/tags/assignments/</loc>
-    <lastmod>2020-01-28T11:16:48-05:00</lastmod>
   </url>
   
   <url>

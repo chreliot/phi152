@@ -6,10 +6,20 @@
     <description>Recent content in assignments on PHI 152</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jan 2020 19:55:28 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 14:47:58 -0500</lastBuildDate>
     
 	<atom:link href="http://chreliot.github.io/phi152/tags/assignments/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Assignment 1</title>
+      <link>http://chreliot.github.io/phi152/assignments/1/</link>
+      <pubDate>Thu, 13 Feb 2020 14:47:58 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/assignments/1/</guid>
+      <description>Upload your assignment to the Blackboard link for Assignments by DATE.
+Tasks   Produce your own original examples of:a. a deductively valid, sound argumentb. a deductively valid argument which is not soundc. an inductively strong argumentd. a version of your answer to c which is even strongere. an argument which sounds a little plausible and might actually persuade someone not being careful about their reasoning, but which is neither deductively valid nor inductively strong</description>
+    </item>
     
     <item>
       <title>Interpreting Grades</title>
