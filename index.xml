@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Topic 3: Probability</title>
+      <link>http://chreliot.github.io/phi152/topics/probability/</link>
+      <pubDate>Mon, 02 Mar 2020 16:59:47 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/probability/</guid>
+      <description>Here we set up some basic ideas about probability which will be key for understanding the approaches to scientific justification which have dominated the last several decades.
+Reading  Hacking,  Chapter 4 “Elementary Probability Ideas” Chapter 5 “Conditional Probability” Chapter 11 “What Do You Mean?”    See also  Hacking Chapter 3 “The Gambler&amp;rsquo;s Fallacy” sets up some basic ideas about chance devices, and Chapter 6 “The Basic Rules of Probability” summarizes the rules that appear in the above assigned chapters.</description>
+    </item>
+    
+    <item>
       <title>Assignment 1</title>
       <link>http://chreliot.github.io/phi152/assignments/1/</link>
       <pubDate>Thu, 13 Feb 2020 14:47:58 -0500</pubDate>

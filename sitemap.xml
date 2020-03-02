@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://chreliot.github.io/phi152/tags/</loc>
+    <lastmod>2020-03-02T17:05:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi152/topics/probability/</loc>
+    <lastmod>2020-03-02T17:05:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi152/topics/</loc>
+    <lastmod>2020-03-02T17:05:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi152/tags/topics/</loc>
+    <lastmod>2020-03-02T17:05:48-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://chreliot.github.io/phi152/assignments/1/</loc>
     <lastmod>2020-02-13T15:01:15-05:00</lastmod>
   </url>
@@ -18,22 +38,7 @@
   </url>
   
   <url>
-    <loc>http://chreliot.github.io/phi152/tags/</loc>
-    <lastmod>2020-02-13T15:01:15-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://chreliot.github.io/phi152/topics/early-methods/</loc>
-    <lastmod>2020-02-13T14:56:22-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chreliot.github.io/phi152/topics/</loc>
-    <lastmod>2020-02-13T14:56:22-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chreliot.github.io/phi152/tags/topics/</loc>
     <lastmod>2020-02-13T14:56:22-05:00</lastmod>
   </url>
   
@@ -74,7 +79,7 @@
   
   <url>
     <loc>http://chreliot.github.io/phi152/schedule/</loc>
-    <lastmod>2020-02-19T11:56:08-05:00</lastmod>
+    <lastmod>2020-03-02T17:05:48-05:00</lastmod>
   </url>
   
   <url>
