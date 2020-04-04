@@ -6,10 +6,21 @@
     <description>Recent content in assignments on PHI 152</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Feb 2020 14:47:58 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 17:23:09 -0500</lastBuildDate>
     
 	<atom:link href="http://chreliot.github.io/phi152/tags/assignments/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Assignment 2</title>
+      <link>http://chreliot.github.io/phi152/assignments/2/</link>
+      <pubDate>Thu, 13 Feb 2020 17:23:09 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/assignments/2/</guid>
+      <description>Upload your assignment to the Blackboard link for “Assignment 2” by Apr 8.
+Tasks   Write at least one sentence each about the following: a. What problem does Bayes&amp;rsquo;s rule address? b. In what way does it help with that problem? c. What is one kind of case where Bayesianism helps? d. What is a kind of case where Bayesianism seems less helpful?
+  Do exercises 1–3, on Hacking page 77</description>
+    </item>
     
     <item>
       <title>Assignment 1</title>
