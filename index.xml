@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Topic 5: Frequentism</title>
+      <link>http://chreliot.github.io/phi152/topics/frequentism/</link>
+      <pubDate>Mon, 13 Apr 2020 11:23:28 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/frequentism/</guid>
+      <description>Next, we examine the second main, contemporary approach to scientific reasoning, based in the frequentist understanding of probability. At the heart of its reasoning is the “double negative” inference, based in the “probabilistic modus tollens.” The jargon name for this approach is “null hypothesis significance testing.” We will observe how and why it works, building up from some foundational concepts.
+Reading  Hacking Chapter 16 “Stability”  Slides  Introducing null-hypothesis testing (Apr 13) Introduction to population sampling and correlation  See also  The animations of probability and statistical ideas at Seeing Theory (Brown University) are really well done.</description>
+    </item>
+    
+    <item>
       <title>Assignment 2</title>
       <link>http://chreliot.github.io/phi152/assignments/2/</link>
       <pubDate>Thu, 02 Apr 2020 17:23:09 -0500</pubDate>
