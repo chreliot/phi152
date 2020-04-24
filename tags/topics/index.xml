@@ -6,10 +6,20 @@
     <description>Recent content in topics on PHI 152</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2020 11:23:28 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2020 11:09:33 -0400</lastBuildDate>
     
 	<atom:link href="http://chreliot.github.io/phi152/tags/topics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Topic 6: Casuation</title>
+      <link>http://chreliot.github.io/phi152/topics/causation/</link>
+      <pubDate>Fri, 24 Apr 2020 11:09:33 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/causation/</guid>
+      <description>We&amp;rsquo;ve discussed what correlations are, and how they are related to sampling from a population via basic probability ideas. But we noted that correlation isn&amp;rsquo;t causation, and that researchers are quite often interested in causation. Here we take up how it might be possible to investigate causal relationships, and some of the challenges and limitations inherent to doing that.
+Reading  “Understanding and Misunderstanding Randomized Controlled Trials” by Angus Deaton and Nancy Cartwright.</description>
+    </item>
     
     <item>
       <title>Topic 5: Frequentism</title>
@@ -18,7 +28,7 @@
       
       <guid>http://chreliot.github.io/phi152/topics/frequentism/</guid>
       <description>Next, we examine the second main, contemporary approach to scientific reasoning, based in the frequentist understanding of probability. At the heart of its reasoning is the “double negative” inference, based in the “probabilistic modus tollens.” The jargon name for this approach is “null hypothesis significance testing.” We will observe how and why it works, building up from some foundational concepts.
-Reading  Hacking, Chapter 16 “Stability” Hacking, Chapter 17 “Normal Approximations” Hacking, Chapter 18 “Significance and Power” (note on type I/II error)  Slides  Introducing null-hypothesis testing (Apr 13) Introduction to population sampling and correlation (updated Apr 16; slide 11 is new)  See also  The animations of probability and statistical ideas at Seeing Theory (Brown University) are really well done.</description>
+Reading  Hacking, Chapter 16 “Stability” Hacking, Chapter 17 “Normal Approximations” Hacking, Chapter 18 “Significance and Power” (note on type I/II error)  Slides  Introducing null-hypothesis testing (Apr 13) Introduction to population sampling and correlation (updated Apr 16; slide 11 is new)  See also  “Statistical Tests, P Values, Confidence Intervals, and Power: A Guide to Misinterpretations” by Sander Greenland et al.</description>
     </item>
     
     <item>
