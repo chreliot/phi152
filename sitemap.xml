@@ -3,8 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://chreliot.github.io/phi152/resources/</loc>
+    <lastmod>2021-01-27T19:16:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi152/</loc>
+    <lastmod>2021-01-27T19:16:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi152/notes/natural-deduction-with-derived-rules-answers/</loc>
+    <lastmod>2021-01-27T19:16:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi152/notes/</loc>
+    <lastmod>2021-01-27T19:16:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi152/tags/notes/</loc>
+    <lastmod>2021-01-27T19:16:08-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://chreliot.github.io/phi152/tags/</loc>
-    <lastmod>2020-05-08T10:02:31-04:00</lastmod>
+    <lastmod>2021-01-27T19:16:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi152/notes/fol-parentheses/</loc>
+    <lastmod>2021-01-27T19:16:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi152/notes/variant-rule-names/</loc>
+    <lastmod>2021-01-27T19:16:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi152/notes/test-2/</loc>
+    <lastmod>2021-01-27T19:16:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi152/notes/interpreting-grades/</loc>
+    <lastmod>2021-01-27T19:16:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi152/notes/symbolization-exercise-answers/</loc>
+    <lastmod>2021-01-27T19:16:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi152/notes/test-1/</loc>
+    <lastmod>2021-01-27T19:16:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi152/notes/true/false-exercise-answers/</loc>
+    <lastmod>2021-01-27T19:16:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi152/notes/vocabulary-list/</loc>
+    <lastmod>2021-01-27T19:16:08-05:00</lastmod>
   </url>
   
   <url>
@@ -14,12 +79,12 @@
   
   <url>
     <loc>http://chreliot.github.io/phi152/topics/</loc>
-    <lastmod>2020-04-27T10:48:17-04:00</lastmod>
+    <lastmod>2021-01-27T19:15:34-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://chreliot.github.io/phi152/tags/topics/</loc>
-    <lastmod>2020-04-27T10:48:17-04:00</lastmod>
+    <lastmod>2021-01-27T19:15:34-05:00</lastmod>
   </url>
   
   <url>
@@ -49,17 +114,17 @@
   
   <url>
     <loc>http://chreliot.github.io/phi152/posts/</loc>
-    <lastmod>2020-05-08T10:02:31-04:00</lastmod>
+    <lastmod>2020-05-08T10:12:50-04:00</lastmod>
   </url>
   
   <url>
     <loc>http://chreliot.github.io/phi152/posts/test-2-questions/</loc>
-    <lastmod>2020-05-08T10:02:31-04:00</lastmod>
+    <lastmod>2020-05-08T10:12:50-04:00</lastmod>
   </url>
   
   <url>
     <loc>http://chreliot.github.io/phi152/tags/tests/</loc>
-    <lastmod>2020-05-08T10:02:31-04:00</lastmod>
+    <lastmod>2020-05-08T10:12:50-04:00</lastmod>
   </url>
   
   <url>
@@ -89,7 +154,7 @@
   
   <url>
     <loc>http://chreliot.github.io/phi152/topics/logic/</loc>
-    <lastmod>2020-01-29T11:01:26-05:00</lastmod>
+    <lastmod>2021-01-27T19:15:34-05:00</lastmod>
   </url>
   
   <url>
@@ -108,23 +173,17 @@
   </url>
   
   <url>
-    <loc>http://chreliot.github.io/phi152/</loc>
-    <lastmod>2020-01-26T16:23:40-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://chreliot.github.io/phi152/about/</loc>
-    <lastmod>2020-01-28T11:16:48-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chreliot.github.io/phi152/schedule/</loc>
-    <lastmod>2020-04-24T14:09:26-04:00</lastmod>
+    <lastmod>2021-01-27T19:15:34-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://chreliot.github.io/phi152/info/participation-rubric/</loc>
     <lastmod>2020-01-28T11:16:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://chreliot.github.io/phi152/notes/</loc>
   </url>
   
 </urlset>
