@@ -6,17 +6,7 @@
     <description>Recent content in Assignments on PHI 152</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2020 10:09:13 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/assignments/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Assignment 3</title>
-      <link>http://chreliot.github.io/phi152/assignments/3/</link>
-      <pubDate>Fri, 24 Apr 2020 10:09:13 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/assignments/3/</guid>
-      <description>As announced in class, upload your assignment to the Blackboard link for “Assignment 3” by Monday Apr 27.
-At the end of page Hacking Chapter 18, answer questions 2–7.</description>
-    </item>
-    
+    <lastBuildDate>Thu, 02 Apr 2020 17:23:09 -0500</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/assignments/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Assignment 2</title>
       <link>http://chreliot.github.io/phi152/assignments/2/</link>
@@ -26,17 +16,6 @@ At the end of page Hacking Chapter 18, answer questions 2–7.</description>
       <description>Upload your assignment to the Blackboard link for “Assignment 2” by April 8 April 10.
 Tasks   Write at least one sentence each about the following: a. What problem does Bayes&amp;rsquo;s rule address? b. In what way does it help with that problem? c. What is one kind of case where Bayesianism helps? d. What is a kind of case where Bayesianism seems less helpful?
   Do exercises 1–3, on Hacking page 77</description>
-    </item>
-    
-    <item>
-      <title>Assignment 1</title>
-      <link>http://chreliot.github.io/phi152/assignments/1/</link>
-      <pubDate>Thu, 13 Feb 2020 14:47:58 -0500</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/assignments/1/</guid>
-      <description>Upload your assignment to the Blackboard link for Assignments by Feb 21.
-Tasks   Produce your own original examples of:
- a deductively valid, sound argument a deductively valid argument which is not sound an inductively strong argument a version of that same argument which is even stronger an argument which sounds a little plausible and might actually persuade someone not being careful about their reasoning, but which is neither deductively valid nor inductively strong    Use your imagination and powers of observation a bit: What are some different ways inductive arguments can have more inductive strength than others?</description>
     </item>
     
   </channel>
