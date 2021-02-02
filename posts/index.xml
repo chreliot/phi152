@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on PHI 152</title>
+    <link>http://chreliot.github.io/phi152/posts/</link>
+    <description>Recent content in Posts on PHI 152</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Mar 2020 10:41:20 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test 2 Questions</title>
+      <link>http://chreliot.github.io/phi152/posts/test-2-questions/</link>
+      <pubDate>Tue, 31 Mar 2020 10:41:20 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/posts/test-2-questions/</guid>
+      <description>The questions for our second test follow. They stick very closely to your readings and what we emphasized in class.
+The test will consist of some of the questions on this list; it&amp;rsquo;s now complete. The questions selected for the test will appear on the test exactly as they are written here. There will be at least eight of them on the test, of which you will need to choose six to answer.</description>
+    </item>
+    
+    <item>
+      <title>Test 1 Questions</title>
+      <link>http://chreliot.github.io/phi152/posts/test-1-questions/</link>
+      <pubDate>Sun, 08 Mar 2020 10:30:12 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/posts/test-1-questions/</guid>
+      <description>The questions for our first test follow. They stick very closely to your readings and what we emphasized in class.
+The test will consist of some of the questions on this list. The questions selected for the test will appear on the test exactly as they are written here. There will be at least eight of them on the test, of which you will need to choose six to answer.</description>
+    </item>
+    
+  </channel>
+</rss>

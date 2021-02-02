@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on PHI 152</title>
+    <link>http://chreliot.github.io/phi152/topics/</link>
+    <description>Recent content in Topics on PHI 152</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Apr 2020 11:09:33 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Topic 6: Causation</title>
+      <link>http://chreliot.github.io/phi152/topics/causation/</link>
+      <pubDate>Fri, 24 Apr 2020 11:09:33 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/causation/</guid>
+      <description>We&amp;rsquo;ve discussed what correlations are, and how they are related to sampling from a population via basic probability ideas. But we noted that correlation isn&amp;rsquo;t causation, and that researchers are quite often interested in causation. Here we take up how it might be possible to investigate causal relationships, and some of the challenges and limitations inherent to doing that.
+Reading  “Understanding and Misunderstanding Randomized Controlled Trials” by Angus Deaton and Nancy Cartwright.</description>
+    </item>
+    
+    <item>
+      <title>Topic 5: Frequentism</title>
+      <link>http://chreliot.github.io/phi152/topics/frequentism/</link>
+      <pubDate>Mon, 13 Apr 2020 11:23:28 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/frequentism/</guid>
+      <description>Next, we examine the second main, contemporary approach to scientific reasoning, based in the frequentist understanding of probability. At the heart of its reasoning is the “double negative” inference, based in the “probabilistic modus tollens.” The jargon name for this approach is “null hypothesis significance testing.” We will observe how and why it works, building up from some foundational concepts.
+Reading  Hacking, Chapter 16 “Stability” Hacking, Chapter 17 “Normal Approximations” Hacking, Chapter 18 “Significance and Power” (note on type I/II error)  Slides  Introducing null-hypothesis testing (Apr 13) Introduction to population sampling and correlation (updated Apr 16; slide 11 is new)  See also  “Statistical Tests, P Values, Confidence Intervals, and Power: A Guide to Misinterpretations” by Sander Greenland et al.</description>
+    </item>
+    
+    <item>
+      <title>Topic 4: Bayesianism</title>
+      <link>http://chreliot.github.io/phi152/topics/bayesianism/</link>
+      <pubDate>Fri, 27 Mar 2020 13:56:35 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/bayesianism/</guid>
+      <description>Bayesianism, as an approach to inductive reasoning, focuses on updating our beliefs in light of new evidence. It is built around a simple formula that expreses a relationship between probabilities.
+Reading  Hacking, Chapter 7 “Bayes&#39; Rule” (pages 69–77) Hacking, Chapter 13 “Personal Probabilities” (pages 151–160) Hacking, Chapter 21 “Learning from Experience as an Evasion of the Problem of Induction” (4 pages) — and if you&amp;rsquo;re not feeling sufficiently familiar with “the problem of induction,” look at the first pages of Chapter 20  See also  John Horgan, “Bayes&amp;rsquo;s Theorem: What&amp;rsquo;s the Big Deal?</description>
+    </item>
+    
+    <item>
+      <title>Topic 3: Probability</title>
+      <link>http://chreliot.github.io/phi152/topics/probability/</link>
+      <pubDate>Mon, 02 Mar 2020 16:59:47 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/probability/</guid>
+      <description>Here we set up some basic ideas about probability which will be key for understanding the approaches to scientific justification which have dominated the last several decades.
+Reading  Hacking, Introduction to Probability and Inductive Logic  Chapter 4 “Elementary Probability Ideas” Chapter 5 “Conditional Probability” Chapter 11 “What Do You Mean?”    Slides  Probability Probability-2  Note: These are PDFs which you should be able to view easily.</description>
+    </item>
+    
+    <item>
+      <title>Topic 2: Early Methods</title>
+      <link>http://chreliot.github.io/phi152/topics/early-methods/</link>
+      <pubDate>Wed, 05 Feb 2020 16:59:10 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/early-methods/</guid>
+      <description>As modern science emerged, its practitioners tried to describe how they were reasoning, and how others should reason, to do science. They came to quite different answers! This unit looks quickly at a few landmarks from the period 1600–1900.
+Reading  Francis Bacon, The New Organon (1620). Read Book 2, sections 10–16 (this starts on page 53 of the linked PDF), but skim through the examples to get a general sense of what&amp;rsquo;s going on with them, and focus on the beginning and end.</description>
+    </item>
+    
+    <item>
+      <title>Topic 1: Logic</title>
+      <link>http://chreliot.github.io/phi152/topics/logic/</link>
+      <pubDate>Sun, 26 Jan 2020 19:23:28 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/logic/</guid>
+      <description>Could deductive logic be the logic of science? What is logic? And what is deductive logic? Is non-deductive logic possible?
+Reading (This is what you should read for this section. The due dates appear on the front page schedule.)
+ forallx CALGARY: An Introduction to Formal Logic, Fall 2020 edition, by Magnus et al. Get PDF from here, available in several versions; or, here is a direct link to the the screen-friendly PDF version.</description>
+    </item>
+    
+  </channel>
+</rss>
