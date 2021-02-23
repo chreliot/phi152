@@ -6,7 +6,17 @@
     <description>Recent content in Topics on PHI 152</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2020 11:09:33 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/topics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Feb 2021 13:34:49 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Topic 3: Probability</title>
+      <link>http://chreliot.github.io/phi152/topics/probability/</link>
+      <pubDate>Mon, 22 Feb 2021 13:34:49 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/probability/</guid>
+      <description>Here we set up some basic ideas about probability which will be key for understanding the approaches to scientific justification which have dominated the last several decades.
+Reading  Hacking, Introduction to Probability and Inductive Logic  Chapter 4 “Elementary Probability Ideas” Chapter 5 “Conditional Probability” Chapter 11 “What Do You Mean?”    Slides  Probability Probability-2  Note: These are PDFs which you should be able to view easily.</description>
+    </item>
+    
     <item>
       <title>Topic 6: Causation</title>
       <link>http://chreliot.github.io/phi152/topics/causation/</link>
@@ -35,16 +45,6 @@ Reading  Hacking, Chapter 16 “Stability” Hacking, Chapter 17 “Normal Appro
       <guid>http://chreliot.github.io/phi152/topics/bayesianism/</guid>
       <description>Bayesianism, as an approach to inductive reasoning, focuses on updating our beliefs in light of new evidence. It is built around a simple formula that expreses a relationship between probabilities.
 Reading  Hacking, Chapter 7 “Bayes&#39; Rule” (pages 69–77) Hacking, Chapter 13 “Personal Probabilities” (pages 151–160) Hacking, Chapter 21 “Learning from Experience as an Evasion of the Problem of Induction” (4 pages) — and if you&amp;rsquo;re not feeling sufficiently familiar with “the problem of induction,” look at the first pages of Chapter 20  See also  John Horgan, “Bayes&amp;rsquo;s Theorem: What&amp;rsquo;s the Big Deal?</description>
-    </item>
-    
-    <item>
-      <title>Topic 3: Probability</title>
-      <link>http://chreliot.github.io/phi152/topics/probability/</link>
-      <pubDate>Mon, 02 Mar 2020 16:59:47 -0500</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/topics/probability/</guid>
-      <description>Here we set up some basic ideas about probability which will be key for understanding the approaches to scientific justification which have dominated the last several decades.
-Reading  Hacking, Introduction to Probability and Inductive Logic  Chapter 4 “Elementary Probability Ideas” Chapter 5 “Conditional Probability” Chapter 11 “What Do You Mean?”    Slides  Probability Probability-2  Note: These are PDFs which you should be able to view easily.</description>
     </item>
     
     <item>
