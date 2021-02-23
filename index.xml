@@ -8,6 +8,26 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Jan 2021 20:14:36 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Topic 5: Frequentism</title>
+      <link>http://chreliot.github.io/phi152/topics/frequentism/</link>
+      <pubDate>Tue, 23 Feb 2021 14:43:16 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/frequentism/</guid>
+      <description>Next, we examine the second main, contemporary approach to scientific reasoning, based in the frequentist understanding of probability. At the heart of its reasoning is the “double negative” inference, based in the “probabilistic modus tollens.” The jargon name for this approach is “null hypothesis significance testing.” We will observe how and why it works, building up from some foundational concepts.
+Reading  Hacking, Chapter 16 “Stability” Hacking, Chapter 17 “Normal Approximations” Hacking, Chapter 18 “Significance and Power” (note on type I/II error)  Slides (slide links to come — not live yet)</description>
+    </item>
+    
+    <item>
+      <title>Topic 4: Bayesianism</title>
+      <link>http://chreliot.github.io/phi152/topics/bayesianism/</link>
+      <pubDate>Tue, 23 Feb 2021 14:42:45 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/bayesianism/</guid>
+      <description>Bayesianism, as an approach to inductive reasoning, focuses on updating our beliefs in light of new evidence. It is built around a simple formula that expreses a relationship between probabilities.
+Reading  Hacking, Chapter 7 “Bayes&#39; Rule” (pages 69–77) Hacking, Chapter 13 “Personal Probabilities” (pages 151–160) Hacking, Chapter 21 “Learning from Experience as an Evasion of the Problem of Induction” (4 pages) — and if you&amp;rsquo;re not feeling sufficiently familiar with “the problem of induction,” look at the first pages of Chapter 20  See also  John Horgan, “Bayes&amp;rsquo;s Theorem: What&amp;rsquo;s the Big Deal?</description>
+    </item>
+    
+    <item>
       <title>Topic 3: Probability</title>
       <link>http://chreliot.github.io/phi152/topics/probability/</link>
       <pubDate>Mon, 22 Feb 2021 13:34:49 -0400</pubDate>
@@ -37,26 +57,6 @@ Tasks   For this exercise, arguments take the form of two or more sentences — 
     </item>
     
     <item>
-      <title>Topic 6: Causation</title>
-      <link>http://chreliot.github.io/phi152/topics/causation/</link>
-      <pubDate>Fri, 24 Apr 2020 11:09:33 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/topics/causation/</guid>
-      <description>We&amp;rsquo;ve discussed what correlations are, and how they are related to sampling from a population via basic probability ideas. But we noted that correlation isn&amp;rsquo;t causation, and that researchers are quite often interested in causation. Here we take up how it might be possible to investigate causal relationships, and some of the challenges and limitations inherent to doing that.
-Reading  “Understanding and Misunderstanding Randomized Controlled Trials” by Angus Deaton and Nancy Cartwright.</description>
-    </item>
-    
-    <item>
-      <title>Topic 5: Frequentism</title>
-      <link>http://chreliot.github.io/phi152/topics/frequentism/</link>
-      <pubDate>Mon, 13 Apr 2020 11:23:28 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/topics/frequentism/</guid>
-      <description>Next, we examine the second main, contemporary approach to scientific reasoning, based in the frequentist understanding of probability. At the heart of its reasoning is the “double negative” inference, based in the “probabilistic modus tollens.” The jargon name for this approach is “null hypothesis significance testing.” We will observe how and why it works, building up from some foundational concepts.
-Reading  Hacking, Chapter 16 “Stability” Hacking, Chapter 17 “Normal Approximations” Hacking, Chapter 18 “Significance and Power” (note on type I/II error)  Slides  Introducing null-hypothesis testing (Apr 13) Introduction to population sampling and correlation (updated Apr 16; slide 11 is new)  See also  “Statistical Tests, P Values, Confidence Intervals, and Power: A Guide to Misinterpretations” by Sander Greenland et al.</description>
-    </item>
-    
-    <item>
       <title>Test 2 Questions</title>
       <link>http://chreliot.github.io/phi152/posts/test-2-questions/</link>
       <pubDate>Tue, 31 Mar 2020 10:41:20 -0400</pubDate>
@@ -64,16 +64,6 @@ Reading  Hacking, Chapter 16 “Stability” Hacking, Chapter 17 “Normal Appro
       <guid>http://chreliot.github.io/phi152/posts/test-2-questions/</guid>
       <description>The questions for our second test follow. They stick very closely to your readings and what we emphasized in class.
 The test will consist of some of the questions on this list; it&amp;rsquo;s now complete. The questions selected for the test will appear on the test exactly as they are written here. There will be at least eight of them on the test, of which you will need to choose six to answer.</description>
-    </item>
-    
-    <item>
-      <title>Topic 4: Bayesianism</title>
-      <link>http://chreliot.github.io/phi152/topics/bayesianism/</link>
-      <pubDate>Fri, 27 Mar 2020 13:56:35 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/topics/bayesianism/</guid>
-      <description>Bayesianism, as an approach to inductive reasoning, focuses on updating our beliefs in light of new evidence. It is built around a simple formula that expreses a relationship between probabilities.
-Reading  Hacking, Chapter 7 “Bayes&#39; Rule” (pages 69–77) Hacking, Chapter 13 “Personal Probabilities” (pages 151–160) Hacking, Chapter 21 “Learning from Experience as an Evasion of the Problem of Induction” (4 pages) — and if you&amp;rsquo;re not feeling sufficiently familiar with “the problem of induction,” look at the first pages of Chapter 20  See also  John Horgan, “Bayes&amp;rsquo;s Theorem: What&amp;rsquo;s the Big Deal?</description>
     </item>
     
     <item>
