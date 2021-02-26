@@ -1,119 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>http://chreliot.github.io/phi152/tags/</loc>
-    <lastmod>2021-02-23T20:14:31+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-26T14:39:31+00:00</lastmod>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/topics/frequentism/</loc>
     <lastmod>2021-02-23T19:47:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/topics/</loc>
-    <lastmod>2021-02-23T20:14:31+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-26T14:39:31+00:00</lastmod>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/tags/topics/</loc>
-    <lastmod>2021-02-23T20:14:31+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-26T14:39:31+00:00</lastmod>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/topics/bayesianism/</loc>
     <lastmod>2021-02-23T19:47:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/topics/probability/</loc>
     <lastmod>2021-02-23T19:39:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/assignments/1/</loc>
     <lastmod>2021-02-15T14:25:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/assignments/</loc>
     <lastmod>2021-02-15T14:25:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/tags/assignments/</loc>
     <lastmod>2021-02-15T14:25:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/resources/</loc>
     <lastmod>2021-01-28T14:44:25-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/</loc>
-    <lastmod>2021-02-23T20:14:31+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-26T14:35:10+00:00</lastmod>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/posts/</loc>
     <lastmod>2020-05-08T10:12:50-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/posts/test-2-questions/</loc>
     <lastmod>2020-05-08T10:12:50-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/tags/tests/</loc>
     <lastmod>2020-05-08T10:12:50-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/posts/test-1-questions/</loc>
     <lastmod>2020-03-08T10:39:38-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/topics/early-methods/</loc>
-    <lastmod>2021-02-23T20:14:31+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-26T14:39:31+00:00</lastmod>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/topics/logic/</loc>
     <lastmod>2021-02-08T09:29:04-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/tags/info/</loc>
     <lastmod>2020-03-31T15:15:57-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/info/</loc>
     <lastmod>2020-03-31T15:15:57-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/info/interpreting-grades/</loc>
     <lastmod>2020-03-31T15:15:57-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/about/</loc>
     <lastmod>2021-01-27T19:15:34-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/info/participation-rubric/</loc>
     <lastmod>2020-01-28T11:16:48-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/notes/</loc>
   </url>
-  
 </urlset>
