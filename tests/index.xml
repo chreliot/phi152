@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tests on PHI 152</title>
+    <link>http://chreliot.github.io/phi152/tests/</link>
+    <description>Recent content in Tests on PHI 152</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Mar 2021 14:02:56 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/tests/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test 1 Information</title>
+      <link>http://chreliot.github.io/phi152/tests/test-1/</link>
+      <pubDate>Fri, 19 Mar 2021 14:02:56 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/tests/test-1/</guid>
+      <description>Our first test, on Wednesday March 24, will be released at the beginning of the class session (9:40 AM) through a Blackboard announcement (which will automatically also go, at least fairly promptly, to your email). The test is designed to take one hour. You may complete it during the class session, or you may submit it later in the day. Tests submitted any time on March 24 will be on time.</description>
+    </item>
+    
+  </channel>
+</rss>
