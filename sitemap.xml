@@ -2,8 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://chreliot.github.io/phi152/notes/</loc>
+    <lastmod>2021-03-23T20:55:44+00:00</lastmod>
+  </url><url>
+    <loc>http://chreliot.github.io/phi152/tags/notes/</loc>
+    <lastmod>2021-03-23T20:55:44+00:00</lastmod>
+  </url><url>
+    <loc>http://chreliot.github.io/phi152/notes/notes-on-method/</loc>
+    <lastmod>2021-03-23T20:55:44+00:00</lastmod>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/tags/</loc>
-    <lastmod>2021-03-22T13:21:49+00:00</lastmod>
+    <lastmod>2021-03-23T20:55:44+00:00</lastmod>
   </url><url>
     <loc>http://chreliot.github.io/phi152/tests/test-1/</loc>
     <lastmod>2021-03-22T13:21:49+00:00</lastmod>
@@ -14,23 +23,8 @@
     <loc>http://chreliot.github.io/phi152/tags/tests/</loc>
     <lastmod>2021-03-22T13:21:49+00:00</lastmod>
   </url><url>
-    <loc>http://chreliot.github.io/phi152/notes/</loc>
-    <lastmod>2021-03-15T13:19:51+00:00</lastmod>
-  </url><url>
-    <loc>http://chreliot.github.io/phi152/tags/notes/</loc>
-    <lastmod>2021-03-15T13:19:51+00:00</lastmod>
-  </url><url>
-    <loc>http://chreliot.github.io/phi152/notes/notes-on-hempel/</loc>
-    <lastmod>2021-03-15T13:19:51+00:00</lastmod>
-  </url><url>
-    <loc>http://chreliot.github.io/phi152/notes/notes-on-whewell/</loc>
-    <lastmod>2021-03-15T13:14:04+00:00</lastmod>
-  </url><url>
-    <loc>http://chreliot.github.io/phi152/notes/notes-on-hume/</loc>
-    <lastmod>2021-03-15T13:14:04+00:00</lastmod>
-  </url><url>
     <loc>http://chreliot.github.io/phi152/notes/notes-on-popper/</loc>
-    <lastmod>2021-03-15T13:14:04+00:00</lastmod>
+    <lastmod>2021-03-23T20:45:53+00:00</lastmod>
   </url><url>
     <loc>http://chreliot.github.io/phi152/assignments/2/</loc>
     <lastmod>2021-03-02T02:46:13+00:00</lastmod>
@@ -40,6 +34,12 @@
   </url><url>
     <loc>http://chreliot.github.io/phi152/tags/assignments/</loc>
     <lastmod>2021-03-02T02:46:13+00:00</lastmod>
+  </url><url>
+    <loc>http://chreliot.github.io/phi152/notes/notes-on-hempel/</loc>
+    <lastmod>2021-03-23T20:45:53+00:00</lastmod>
+  </url><url>
+    <loc>http://chreliot.github.io/phi152/notes/notes-on-whewell/</loc>
+    <lastmod>2021-03-23T20:45:53+00:00</lastmod>
   </url><url>
     <loc>http://chreliot.github.io/phi152/topics/frequentism/</loc>
     <lastmod>2021-02-23T19:47:08+00:00</lastmod>
@@ -56,8 +56,14 @@
     <loc>http://chreliot.github.io/phi152/topics/probability/</loc>
     <lastmod>2021-03-19T17:33:54+00:00</lastmod>
   </url><url>
+    <loc>http://chreliot.github.io/phi152/notes/notes-on-hume/</loc>
+    <lastmod>2021-03-23T20:45:53+00:00</lastmod>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/assignments/1/</loc>
     <lastmod>2021-02-15T14:25:36+00:00</lastmod>
+  </url><url>
+    <loc>http://chreliot.github.io/phi152/notes/notes-on-logic/</loc>
+    <lastmod>2021-03-23T20:55:44+00:00</lastmod>
   </url><url>
     <loc>http://chreliot.github.io/phi152/resources/</loc>
     <lastmod>2021-01-28T14:44:25-05:00</lastmod>
