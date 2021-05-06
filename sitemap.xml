@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://chreliot.github.io/phi152/tags/</loc>
+    <lastmod>2021-05-05T20:50:24-04:00</lastmod>
+  </url><url>
+    <loc>http://chreliot.github.io/phi152/topics/decision-theory/</loc>
+    <lastmod>2021-05-05T20:50:24-04:00</lastmod>
+  </url><url>
+    <loc>http://chreliot.github.io/phi152/topics/</loc>
+    <lastmod>2021-05-05T20:50:24-04:00</lastmod>
+  </url><url>
+    <loc>http://chreliot.github.io/phi152/tags/topics/</loc>
+    <lastmod>2021-05-05T20:50:24-04:00</lastmod>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/assignments/3/</loc>
     <lastmod>2021-04-14T15:14:08+00:00</lastmod>
   </url><url>
@@ -10,9 +22,6 @@
   </url><url>
     <loc>http://chreliot.github.io/phi152/tags/assignments/</loc>
     <lastmod>2021-04-14T15:14:08+00:00</lastmod>
-  </url><url>
-    <loc>http://chreliot.github.io/phi152/tags/</loc>
-    <lastmod>2021-04-28T14:52:07+00:00</lastmod>
   </url><url>
     <loc>http://chreliot.github.io/phi152/tests/test-1-q/</loc>
     <lastmod>2021-03-24T14:33:12+00:00</lastmod>
@@ -50,12 +59,6 @@
     <loc>http://chreliot.github.io/phi152/topics/frequentism/</loc>
     <lastmod>2021-04-12T18:34:46+00:00</lastmod>
   </url><url>
-    <loc>http://chreliot.github.io/phi152/topics/</loc>
-    <lastmod>2021-04-28T14:52:07+00:00</lastmod>
-  </url><url>
-    <loc>http://chreliot.github.io/phi152/tags/topics/</loc>
-    <lastmod>2021-04-28T14:52:07+00:00</lastmod>
-  </url><url>
     <loc>http://chreliot.github.io/phi152/topics/bayesianism/</loc>
     <lastmod>2021-04-01T14:46:43+00:00</lastmod>
   </url><url>
@@ -75,7 +78,7 @@
     <lastmod>2021-01-28T14:44:25-05:00</lastmod>
   </url><url>
     <loc>http://chreliot.github.io/phi152/</loc>
-    <lastmod>2021-04-21T02:14:33+00:00</lastmod>
+    <lastmod>2021-05-05T14:28:28-04:00</lastmod>
   </url><url>
     <loc>http://chreliot.github.io/phi152/topics/causation/</loc>
     <lastmod>2021-04-28T14:52:07+00:00</lastmod>

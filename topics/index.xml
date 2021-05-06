@@ -6,7 +6,17 @@
     <description>Recent content in Topics on PHI 152</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Feb 2021 14:43:16 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/topics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 May 2021 14:30:06 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Topic 7: Decision Theory</title>
+      <link>http://chreliot.github.io/phi152/topics/decision-theory/</link>
+      <pubDate>Wed, 05 May 2021 14:30:06 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/decision-theory/</guid>
+      <description>Decision theory offers a framework for using knowledge to make decisions. To do this, it offers a way of integrating probabilities and values. And it offers some guidelines for choosing different probability/value combinations under different conditions.
+Reading  Hacking, “Expected Value,” chapter 8 of Introduction to Probability and Inductive Logic. Read pages 79–82 with care. Hacking, “Maximizing Expected Value,” chapter 9 of Introduction to Probability and Inductive Logic. Read pages 98–108.</description>
+    </item>
+    
     <item>
       <title>Topic 5: Frequentism</title>
       <link>http://chreliot.github.io/phi152/topics/frequentism/</link>
