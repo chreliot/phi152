@@ -8,6 +8,25 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Jan 2021 20:14:36 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Test 2 Information</title>
+      <link>http://chreliot.github.io/phi152/tests/test-2/</link>
+      <pubDate>Sun, 09 May 2021 14:02:56 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/tests/test-2/</guid>
+      <description>Our second test, on Wednesday May 19, will be released at the beginning of the test period (8:00 AM) through a Blackboard announcement (which will also automatically go, more or less immediately, to your email). The test is designed to take one hour. The test will be due by upload at the end of the session (10:00 AM), except for those students who have arranged additional time as allowed by Student Access Services.</description>
+    </item>
+    
+    <item>
+      <title>Topic 7: Decision Theory</title>
+      <link>http://chreliot.github.io/phi152/topics/decision-theory/</link>
+      <pubDate>Wed, 05 May 2021 14:30:06 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/decision-theory/</guid>
+      <description>Decision theory offers a framework for using knowledge to make decisions. To do this, it offers a way of integrating probabilities and values. And it offers some guidelines for choosing different probability/value combinations under different conditions.
+Reading  Hacking, “Expected Value,” chapter 8 of Introduction to Probability and Inductive Logic. Read pages 79–82 with care. Hacking, “Maximizing Expected Value,” chapter 9 of Introduction to Probability and Inductive Logic. Read pages 98–108.</description>
+    </item>
+    
+    <item>
       <title>Assignment 3</title>
       <link>http://chreliot.github.io/phi152/assignments/3/</link>
       <pubDate>Sun, 04 Apr 2021 10:09:13 -0400</pubDate>
