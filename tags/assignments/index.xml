@@ -6,25 +6,16 @@
     <description>Recent content in assignments on PHI 152</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Apr 2021 10:09:13 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/tags/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jan 2022 22:17:26 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/tags/assignments/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Assignment 3</title>
-      <link>http://chreliot.github.io/phi152/assignments/3/</link>
-      <pubDate>Sun, 04 Apr 2021 10:09:13 -0400</pubDate>
+      <title>Interpreting Grades</title>
+      <link>http://chreliot.github.io/phi152/notes/interpreting-grades/</link>
+      <pubDate>Sun, 30 Jan 2022 22:17:26 -0400</pubDate>
       
-      <guid>http://chreliot.github.io/phi152/assignments/3/</guid>
-      <description>In the question set at the end of page Hacking Chapter 18, answer questions 2–7. Offer some explanation (maybe 1–2 sentences for each answer) in your own words. That is, think of each question that doesn&amp;rsquo;t already say “Why?” asking “Why?”
-Please upload your assignment to the Blackboard link for “Assignment 3” by Wednesday Apr 21.</description>
-    </item>
-    
-    <item>
-      <title>Assignment 2</title>
-      <link>http://chreliot.github.io/phi152/assignments/2/</link>
-      <pubDate>Mon, 01 Mar 2021 21:01:04 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/assignments/2/</guid>
-      <description>Upload your assignment to the Blackboard link for “Assignment 2” any time before the March 8 class. (I originally said Friday March 5, but I&amp;rsquo;m adding in some extra time, in case you want it.)
-Tasks In chapter 2 (page 201, or 11) of Philosophy of Natural Science, Hempel quotes a statement of the scientific method from an economics textbook, and then develops several criticisms of it. The following asks you, similarly, to find similar example in the wild and to (briefly) critically analyze it.</description>
+      <guid>http://chreliot.github.io/phi152/notes/interpreting-grades/</guid>
+      <description>This note about grading and interpreting grades just adds some detail to what the course syllabus already says about grading.
+4-point scale Grades in this course are assigned and calculated using Hofstra&amp;rsquo;s 4-point scale (described here in the Hofstra Bulletin). Following the Bulletin, the alphabetical grades, including plus (+) and minus (–), have the following 4-point scale values (and vice versa):
+   letter 4pt Student’s academic performance …     A 4.</description>
     </item>
     
     <item>
@@ -33,19 +24,8 @@ Tasks In chapter 2 (page 201, or 11) of Philosophy of Natural Science, Hempel qu
       <pubDate>Fri, 12 Feb 2021 09:19:28 -0400</pubDate>
       
       <guid>http://chreliot.github.io/phi152/assignments/1/</guid>
-      <description>Upload your page to “Assignment 1” on Blackboard, under the Assignments area (link in the left sidebar) by, at the latest, (anytime on) Feb 19.
+      <description>Upload your page to “Assignment 1” on Blackboard, under the Assignments area (link in the left sidebar) by, at the latest, (anytime on) TBD.
 Tasks   For this exercise, arguments take the form of two or more sentences — with at least three usually making things easier! — the last of which is the conclusion. The phrases in each sentence should fit together. See forallx, Chapter 2 for examples of arguments.</description>
-    </item>
-    
-    <item>
-      <title>Interpreting Grades</title>
-      <link>http://chreliot.github.io/phi152/notes/interpreting-grades/</link>
-      <pubDate>Thu, 02 Jan 2020 19:55:28 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/notes/interpreting-grades/</guid>
-      <description>This note about grading and interpreting grades just adds some detail to what the course syllabus already says about grading.
-4-point scale Grades in this course are assigned and calculated using Hofstra&amp;rsquo;s 4-point scale (described here in the Hofstra Bulletin). Following the Bulletin, the alphabetical grades, including plus (+) and minus (–), have the following 4-point scale values (and vice versa):
-   letter 4pt Student’s academic performance …     A 4.</description>
     </item>
     
   </channel>
