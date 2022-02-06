@@ -6,7 +6,17 @@
     <description>Recent content in topics on PHI 152</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jan 2022 22:16:17 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/tags/topics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Feb 2022 14:22:38 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/tags/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Topic 2: Early Methods</title>
+      <link>http://chreliot.github.io/phi152/topics/early-methods/</link>
+      <pubDate>Sun, 06 Feb 2022 14:22:38 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/early-methods/</guid>
+      <description>As modern science emerged, its practitioners tried to describe how they were reasoning, and how others should reason, to do science. They came to quite different answers! This unit looks quickly at a few landmarks from the period 1600–1900.
+Reading  Francis Bacon, The New Organon (1620). Read Book 2, sections 10–16 (bottom right of page 53 to page 64 of the linked PDF). Focus on the figuring out the meaning of the beginning and end of the reading, and skim through the content in the middle to get a general sense of what&amp;rsquo;s going.</description>
+    </item>
+    
     <item>
       <title>Topic 1: Logic</title>
       <link>http://chreliot.github.io/phi152/topics/logic/</link>
@@ -66,16 +76,6 @@ Reading  Hacking, Introduction to Probability and Inductive Logic  Chapter 3 “
       <guid>http://chreliot.github.io/phi152/topics/causation/</guid>
       <description>We&amp;rsquo;ve discussed what correlations are, and how they are related to sampling from a population via basic probability ideas. But we noted that correlation isn&amp;rsquo;t causation, and that researchers are quite often interested in causation. Here we take up how it might be possible to investigate causal relationships, and some of the challenges and limitations inherent to doing that.
 Reading  Kara Richardson. from “Avicenna’s Necessitation Thesis” (see Causation Readings) David Hume.</description>
-    </item>
-    
-    <item>
-      <title>Topic 2: Early Methods</title>
-      <link>http://chreliot.github.io/phi152/topics/early-methods/</link>
-      <pubDate>Wed, 05 Feb 2020 16:59:10 -0500</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/topics/early-methods/</guid>
-      <description>As modern science emerged, its practitioners tried to describe how they were reasoning, and how others should reason, to do science. They came to quite different answers! This unit looks quickly at a few landmarks from the period 1600–1900.
-Reading  Francis Bacon, The New Organon (1620). Read Book 2, sections 10–16, starting on page 53 of the linked PDF. Focus on the figuring out the meaning of the beginning and end of the reading, and skim through the content in the middle to get a general sense of what&amp;rsquo;s going.</description>
     </item>
     
   </channel>
