@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://chreliot.github.io/phi152/</loc>
-    <lastmod>2022-03-02T13:48:14+00:00</lastmod>
-  </url><url>
     <loc>http://chreliot.github.io/phi152/tags/</loc>
-    <lastmod>2022-03-07T13:07:31+00:00</lastmod>
+    <lastmod>2022-03-29T16:44:05+00:00</lastmod>
+  </url><url>
+    <loc>http://chreliot.github.io/phi152/topics/bayesianism/</loc>
+    <lastmod>2022-03-29T16:44:05+00:00</lastmod>
+  </url><url>
+    <loc>http://chreliot.github.io/phi152/topics/</loc>
+    <lastmod>2022-03-29T16:44:05+00:00</lastmod>
+  </url><url>
+    <loc>http://chreliot.github.io/phi152/tags/topics/</loc>
+    <lastmod>2022-03-29T16:44:05+00:00</lastmod>
+  </url><url>
+    <loc>http://chreliot.github.io/phi152/</loc>
+    <lastmod>2022-03-29T16:45:07+00:00</lastmod>
   </url><url>
     <loc>http://chreliot.github.io/phi152/topics/probability/</loc>
     <lastmod>2022-02-10T15:24:30+00:00</lastmod>
-  </url><url>
-    <loc>http://chreliot.github.io/phi152/topics/</loc>
-    <lastmod>2022-02-16T14:19:35+00:00</lastmod>
-  </url><url>
-    <loc>http://chreliot.github.io/phi152/tags/topics/</loc>
-    <lastmod>2022-02-16T14:19:35+00:00</lastmod>
   </url><url>
     <loc>http://chreliot.github.io/phi152/assignments/2/</loc>
     <lastmod>2022-02-10T15:19:41+00:00</lastmod>
@@ -61,9 +64,6 @@
   </url><url>
     <loc>http://chreliot.github.io/phi152/topics/frequentism/</loc>
     <lastmod>2021-05-17T16:00:20+00:00</lastmod>
-  </url><url>
-    <loc>http://chreliot.github.io/phi152/topics/bayesianism/</loc>
-    <lastmod>2021-05-17T16:27:20+00:00</lastmod>
   </url><url>
     <loc>http://chreliot.github.io/phi152/assignments/1/</loc>
     <lastmod>2022-02-06T19:20:16+00:00</lastmod>

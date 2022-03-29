@@ -6,7 +6,17 @@
     <description>Recent content in topics on PHI 152</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Feb 2022 10:18:13 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/tags/topics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Mar 2022 12:41:15 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/tags/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Topic 4: Bayesianism</title>
+      <link>http://chreliot.github.io/phi152/topics/bayesianism/</link>
+      <pubDate>Tue, 29 Mar 2022 12:41:15 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/bayesianism/</guid>
+      <description>Bayesianism, as an approach to inductive reasoning, focuses on updating our beliefs in light of new evidence. It is built around a simple formula that expresses a relationship between probabilities.
+Reading  Hacking, Chapter 7 “Bayes&amp;rsquo; Rule” (pages 69–77) Hacking, Chapter 15 “Learning from Experience” (pages 171–188) Hacking, Chapter 21 “Learning from Experience as an Evasion of the Problem of Induction” (4 pages) — and if you&amp;rsquo;re not feeling sufficiently familiar with “the problem of induction” (from our discussion of Hume), optionally look at the first pages of Chapter 20  Slides  Introducing Bayesianism  Learning questions  What do each of the terms mean in the basic version of Bayes&amp;rsquo;s Rule?</description>
+    </item>
+    
     <item>
       <title>Topic 3: Probability</title>
       <link>http://chreliot.github.io/phi152/topics/probability/</link>
@@ -56,16 +66,6 @@ Reading  Hacking, “Expected Value,” chapter 8 of Introduction to Probability
       <guid>http://chreliot.github.io/phi152/topics/frequentism/</guid>
       <description>Next, we examine the second main, contemporary approach to scientific reasoning, based in the frequentist understanding of probability. At the heart of its reasoning is the “double negative” inference, based in the “probabilistic modus tollens.” The jargon name for this approach is “null hypothesis significance testing.” We will observe how and why it works, building up from some foundational concepts.
 Reading  Hacking, Chapter 16 “Stability” Hacking, Chapter 17 “Normal Approximations” Hacking, Chapter 18 “Significance and Power” (note on type I/II error)  Slides  Introducing null-hypothesis testing Introduction to population sampling and correlation  Learning questions  How does the relative frequency interpretation of probability give rise to a way of justifying scientific knowledge?</description>
-    </item>
-    
-    <item>
-      <title>Topic 4: Bayesianism</title>
-      <link>http://chreliot.github.io/phi152/topics/bayesianism/</link>
-      <pubDate>Tue, 23 Feb 2021 14:42:45 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/topics/bayesianism/</guid>
-      <description>Bayesianism, as an approach to inductive reasoning, focuses on updating our beliefs in light of new evidence. It is built around a simple formula that expresses a relationship between probabilities.
-Reading  Hacking, Chapter 7 “Bayes&amp;rsquo; Rule” (pages 69–77) Hacking, Chapter 13 “Personal Probabilities” (pages 151–160) Hacking, Chapter 21 “Learning from Experience as an Evasion of the Problem of Induction” (4 pages) — and if you&amp;rsquo;re not feeling sufficiently familiar with “the problem of induction” (from our discussion of Hume), optionally look at the first pages of Chapter 20  Slides  Introducing Bayesianism  Learning questions  What do each of the terms mean in the basic version of Bayes&amp;rsquo;s Rule?</description>
     </item>
     
     <item>
