@@ -6,7 +6,17 @@
     <description>Recent content in assignments on PHI 152</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Feb 2022 18:34:42 -0500</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/tags/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Apr 2022 08:58:38 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/tags/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignment 4</title>
+      <link>http://chreliot.github.io/phi152/assignments/4/</link>
+      <pubDate>Mon, 18 Apr 2022 08:58:38 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/assignments/4/</guid>
+      <description>Upload your assignment to the Blackboard link for “Assignment 4” by April 25.
+Tasks   Bayes without numbers: Suppose you have a hypothesis, on the first day of class, that the course will have 50% first-year students (FYS) in it. The evidence you have available to you is that when the first two students walk in, they are both first year-students. Without doing a calculation, write a paragraph discussing how you might use Bayes&amp;rsquo;s rule to think about how this evidence might change your confidence in your hypothesis.</description>
+    </item>
+    
     <item>
       <title>Assignment 2</title>
       <link>http://chreliot.github.io/phi152/assignments/2/</link>
