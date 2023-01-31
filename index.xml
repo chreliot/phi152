@@ -27,16 +27,6 @@ it is expected that students receive early advisory that reflects on their progr
     </item>
     
     <item>
-      <title>Assignment 4</title>
-      <link>http://chreliot.github.io/phi152/assignments/4/</link>
-      <pubDate>Mon, 18 Apr 2022 08:58:38 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/assignments/4/</guid>
-      <description>Upload your assignment to the Blackboard link for “Assignment 4” by April 25.
-Tasks Bayes without numbers: Suppose you have a hypothesis, on the first day of class, that the course will have 50% first-year students (FYS) in it. The evidence you have available to you is that when the first two students walk in, they are both first year-students. Without doing a calculation, write a paragraph discussing how you might use Bayes&amp;rsquo;s rule to think about how this evidence might change your confidence in your hypothesis.</description>
-    </item>
-    
-    <item>
       <title>Topic 4: Bayesianism</title>
       <link>http://chreliot.github.io/phi152/topics/bayesianism/</link>
       <pubDate>Tue, 29 Mar 2022 12:41:15 -0400</pubDate>
@@ -54,17 +44,6 @@ Reading Hacking, Chapter 7 “Bayes&amp;rsquo; Rule” (pages 69–77) Hacking, 
       <guid>http://chreliot.github.io/phi152/topics/probability/</guid>
       <description>Here we set up some basic ideas about probability which will are necessary for understanding the approaches to scientific justification scientists have used most during the last fifty years.
 Reading Hacking, Introduction to Probability and Inductive Logic Chapter 3 “The Gambler&amp;rsquo;s Fallacy” This chapter introduces the basic concepts randomness, independence, and probability model but overall it&amp;rsquo;s pitched to give you a feel for some probability ideas. You might read it more quickly than Chapter 4↓.</description>
-    </item>
-    
-    <item>
-      <title>Assignment 2</title>
-      <link>http://chreliot.github.io/phi152/assignments/2/</link>
-      <pubDate>Sun, 06 Feb 2022 18:34:42 -0500</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/assignments/2/</guid>
-      <description>Upload your assignment to the Blackboard link for “Assignment 2” by February 16.
-Tasks Find the brief sketch of scientific method you wrote out during our exercise in class.1 Write that out briefly.2 (about 3–4 sentences)
-Look at the steps in, or parts of, your representation of scientific method. Do any of the moves involve deductive reasoning? Do any of the moves involve inductive reasoning? (By “moves” I mean: If someone were to try to do science using your method, what are the steps they would probably take?</description>
     </item>
     
     <item>
@@ -106,17 +85,7 @@ letter 4pt Student’s academic performance … A 4.0 “was of honors level.</d
       <guid>http://chreliot.github.io/phi152/topics/logic/</guid>
       <description>Does science have a logic? Could it be what we call “deductive logic,” which is the focus of PHI 154? What is deductive logic? Is non-deductive logic possible? What could “inductive logic” be? Could it be the logic of science?
 Reading (This is what you should read for this section. The due dates appear on the front page schedule.)
-forallx Calgary: An Introduction to Formal Logic, Fall 2020 edition, by Magnus et al.</description>
-    </item>
-    
-    <item>
-      <title>Test 2 Information</title>
-      <link>http://chreliot.github.io/phi152/tests/test-2/</link>
-      <pubDate>Sun, 09 May 2021 14:02:56 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/tests/test-2/</guid>
-      <description>Our second test, on Wednesday May 18, will be in our regular classroom, but at our registrar-assigned time, 8 AM. It will be designed to take an hour or a little more than that. You will have until 10 AM to finish it.
-Content This test will cover the whole course, but with a strong emphasis on the second half. In the second half of the course, we covered three main topics and one smaller one.</description>
+Salmon, Wesley C. “The Scope of Logic,” chapter 1 of Logic, 1984.</description>
     </item>
     
     <item>
@@ -130,26 +99,6 @@ Reading Hacking, “Expected Value,” chapter 8 of Introduction to Probability 
     </item>
     
     <item>
-      <title>Assignment 3</title>
-      <link>http://chreliot.github.io/phi152/assignments/3/</link>
-      <pubDate>Sun, 04 Apr 2021 10:09:13 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/assignments/3/</guid>
-      <description>In this assignment we use Whewell&amp;rsquo;s and Popper&amp;rsquo;s models of scientific reasoning and justification to understand scientific developments from the last couple months. Not all of the reasoning in the examples will fit the philosophical models, but your job is to look for how, or where, it does. For each of the following numbered items, write a short paragraph — at least several sentences.
-For one of the following Science News stories, describe (at least some important aspect of) the reasoning of the scientists who performed this research, in terms of William Whewell&amp;rsquo;s model of scientific method: “An ancient impact on Earth led to a cascade of cratering” “Homo sapiens may have reached Europe 10,000 years earlier than previously thought” For one of the following Science News stories, describe (at least some important aspect of) the reasoning of the scientists who performed this research, in terms of Karl Popper&amp;rsquo;s model of scientific method: “Clovis hunters’ reputation as mammoth killers takes a hit” “Organic molecules in an ancient Mars meteorite formed via geology, not alien life” “Americans tend to assume imaginary faces are male” “Here’s what goldfish driving ‘cars’ tell us about navigation” “An arc of galaxies 3 billion light-years long may challenge cosmology” For one of the two analyses above — either your Whewell example or your Popper example, that is: In what ways could the example fit the model of scientific method better?</description>
-    </item>
-    
-    <item>
-      <title>Test 1 Information</title>
-      <link>http://chreliot.github.io/phi152/tests/test-1/</link>
-      <pubDate>Fri, 19 Mar 2021 14:02:56 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/tests/test-1/</guid>
-      <description>Our first test will take place during class on March 16.
-Content We opened the course with the idea of logic, thinking about the possibility of a logic of scientific reasoning. We developed enough understanding of deductive logic to understand examples of it, and its strengths and limitations. We then contrasted it with the idea of inductive logic, thinking about its goals and limitations, as well. We considered, in a way that continued into our examination of various philosophers&amp;rsquo;s accounts, what roles deductive and inductive logic each might play in scientific reasoning.</description>
-    </item>
-    
-    <item>
       <title>Topic 5: Frequentism</title>
       <link>http://chreliot.github.io/phi152/topics/frequentism/</link>
       <pubDate>Tue, 23 Feb 2021 14:43:16 -0400</pubDate>
@@ -157,16 +106,6 @@ Content We opened the course with the idea of logic, thinking about the possibil
       <guid>http://chreliot.github.io/phi152/topics/frequentism/</guid>
       <description>Next, we examine the second main, contemporary approach to scientific reasoning, based in the frequentist understanding of probability. At the heart of its reasoning is the “double negative” inference, based in the “probabilistic modus tollens.” The jargon name for this approach is “null hypothesis significance testing.” We will observe how and why it works, building up from some foundational concepts.
 Reading Hacking, Chapter 16 “Stability” Hacking, Chapter 17 “Normal Approximations” Hacking, Chapter 18 “Significance and Power” (note on type I/II error) Slides Introducing null-hypothesis testing Introduction to population sampling and correlation Learning questions How does the relative frequency interpretation of probability give rise to a way of justifying scientific knowledge?</description>
-    </item>
-    
-    <item>
-      <title>Assignment 1</title>
-      <link>http://chreliot.github.io/phi152/assignments/1/</link>
-      <pubDate>Fri, 12 Feb 2021 09:19:28 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/assignments/1/</guid>
-      <description>Upload your page to “Assignment 1” on Blackboard, under the Assignments area (link in the left sidebar) by, at the latest, (anytime on) February 9.
-Tasks For this exercise, arguments take the form of two or more sentences — with at least three usually making things easier! — the last of which is the conclusion. The phrases in each sentence should fit together. See (assigned reading) forallx, Chapter 2 for examples of arguments.</description>
     </item>
     
     <item>
