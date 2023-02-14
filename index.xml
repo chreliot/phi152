@@ -64,7 +64,7 @@ Reading Hacking, Introduction to Probability and Inductive Logic Chapter 3 “Th
       
       <guid>http://chreliot.github.io/phi152/topics/early-methods/</guid>
       <description>As modern science emerged, its practitioners tried to describe how they were reasoning, and how others should reason, to do science. They came to quite different answers! This unit looks quickly at a few landmarks from the period 1600–1965.
-Reading Francis Bacon, The New Organon (1620). Read Book 2, sections 10–16 (bottom right of page 53 to page 64 of the linked PDF). Focus on the figuring out the meaning of the beginning and end of the reading, and skim through the content in the middle to get a general sense of what&amp;rsquo;s going, and then attend more closely to the conclusion.</description>
+Reading Francis Bacon, The New Organon (1620). Read Book 2, sections 10–16 (bottom right of page 53 to page 64 of the linked PDF). Focus on the figuring out the overall method, skimming the specific scientific information in the middle to get a general sense of what&amp;rsquo;s going on.</description>
     </item>
     
     <item>
@@ -117,6 +117,16 @@ Reading Hacking, “Expected Value,” chapter 8 of Introduction to Probability 
       <guid>http://chreliot.github.io/phi152/topics/frequentism/</guid>
       <description>Next, we examine the second main, contemporary approach to scientific reasoning, based in the frequentist understanding of probability. At the heart of its reasoning is the “double negative” inference, based in the “probabilistic modus tollens.” The jargon name for this approach is “null hypothesis significance testing.” We will observe how and why it works, building up from some foundational concepts.
 Reading Hacking, Chapter 16 “Stability” Hacking, Chapter 17 “Normal Approximations” Hacking, Chapter 18 “Significance and Power” (note on type I/II error) Slides Introducing null-hypothesis testing Introduction to population sampling and correlation Learning questions How does the relative frequency interpretation of probability give rise to a way of justifying scientific knowledge?</description>
+    </item>
+    
+    <item>
+      <title>Assignment 1</title>
+      <link>http://chreliot.github.io/phi152/assignments/1/</link>
+      <pubDate>Fri, 12 Feb 2021 09:19:28 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/assignments/1/</guid>
+      <description>Upload your answer as “Assignment 1” on Gradescope. An email with information about how to upload will follow.
+For this exercise, you will present several arguments, each in the form of a list of two or more sentences — with at least three usually making things easier! — the last of which is the conclusion. The phrases in each sentence should fit together to make the logical relationships among them clear.</description>
     </item>
     
     <item>
