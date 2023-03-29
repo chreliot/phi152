@@ -6,7 +6,18 @@
     <description>Recent content in notes on PHI 152</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Jan 2023 11:32:05 -0500</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Mar 2023 08:33:38 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frequentism1</title>
+      <link>http://chreliot.github.io/phi152/notes/frequentism1/</link>
+      <pubDate>Wed, 29 Mar 2023 08:33:38 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/notes/frequentism1/</guid>
+      <description>Introducing frequentist scientific reasoning Recall Bayesianism&amp;rsquo;s approach How does a Bayesian think we can reason from evidence to hypotheses? How does evidence support hypotheses for Bayesians?
+Your answers:
+Through probability and statistical analysis? Belief-type probability, esp. interpersonal assigning a degree of belief to a hypothesis. Hypotheses have probabilities. evidence supports a hypothesis by making the hypothesis more probable than it was before. In light of new evidence, we update the probability we assign to a hypothesis.</description>
+    </item>
+    
     <item>
       <title>Gradescope</title>
       <link>http://chreliot.github.io/phi152/notes/gradescope/</link>
