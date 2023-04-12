@@ -5,60 +5,6 @@
     <link>http://chreliot.github.io/phi152/notes/</link>
     <description>Recent content in Notes on PHI 152</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 29 Mar 2023 08:33:38 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/notes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Frequentism1</title>
-      <link>http://chreliot.github.io/phi152/notes/frequentism1/</link>
-      <pubDate>Wed, 29 Mar 2023 08:33:38 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/notes/frequentism1/</guid>
-      <description>Introducing frequentist scientific reasoning Recall Bayesianism&amp;rsquo;s approach How does a Bayesian think we can reason from evidence to hypotheses? How does evidence support hypotheses for Bayesians?
-Your answers:
-Through probability and statistical analysis? Belief-type probability, esp. interpersonal assigning a degree of belief to a hypothesis. Hypotheses have probabilities. evidence supports a hypothesis by making the hypothesis more probable than it was before. In light of new evidence, we update the probability we assign to a hypothesis.</description>
-    </item>
-    
-    <item>
-      <title>Gradescope</title>
-      <link>http://chreliot.github.io/phi152/notes/gradescope/</link>
-      <pubDate>Tue, 31 Jan 2023 11:32:05 -0500</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/notes/gradescope/</guid>
-      <description>For feedback and grades on your Assignments and Tests for this course, we will be using the web app Gradescope, which is newly supported by Hofstra.
-Before you can view any of your graded submissions, you will need to create an account with Gradescope. You will receive an email directly from Gradescope with a link for logging in.
-No student has yet reported having difficulty with this process, so—having not used it myself from the student—I think it&amp;rsquo;s pretty straightforward.</description>
-    </item>
-    
-    <item>
-      <title>Mid-semester Advisories</title>
-      <link>http://chreliot.github.io/phi152/notes/mid-semester-advisories/</link>
-      <pubDate>Wed, 18 Jan 2023 11:39:31 -0500</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/notes/mid-semester-advisories/</guid>
-      <description>Mid-semester Advisories Hofstra faculty issue mid-semester advisories in the seventh week of the semester to let students know if they think there is a reason for concern, at that early stage, about their performance so far in the course. It is a preliminary flag, early in the semester, that there may be reason for concern at that point. As the Provost&amp;rsquo;s website instructs:
-it is expected that students receive early advisory that reflects on their progress in their courses.</description>
-    </item>
-    
-    <item>
-      <title>Participation Rubric</title>
-      <link>http://chreliot.github.io/phi152/notes/participation-rubric/</link>
-      <pubDate>Sun, 30 Jan 2022 22:17:39 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/notes/participation-rubric/</guid>
-      <description>This is the participation rubric to be used for grading participation in this course. Read it as saying “A student who demonstrates … earns a grade of X,” where X is the letter grade at the top of the column.1
-A B C D F Active role in discussions, drawing on texts Regular, constructive participation drawing on texts Inconsistent constructive participation based on texts Vague comments reflecting limited engagement with texts Persistent lack of engagement with texts Full preparation for approximately every class Substantial preparation, normally Inconsistent evidence of preparation Rare evidence of participation No positive evidence of participation Success at advancing level and depth of discussion, persistently Regular contributions based on assigned material, which sometimes improve discussion and never diminish it Rare or no significant contribution to the level of discussion while not reducing it Activity sometimes diminishing the discussion and the classroom environment Activity regularly diminishing the discussion and the classroom environment Active engagement with and listening to peers, persistently Sincere efforts to interact with peers, normally Limited engagement with peers Rare interaction with peers No interaction with peers This rubric is significantly based on, and lightly adapted from, one shared by another philosophy professor, Jay Odenbaugh.</description>
-    </item>
-    
-    <item>
-      <title>Interpreting Grades</title>
-      <link>http://chreliot.github.io/phi152/notes/interpreting-grades/</link>
-      <pubDate>Sun, 30 Jan 2022 22:17:26 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/notes/interpreting-grades/</guid>
-      <description>This note about grading and interpreting grades just adds some detail to what the course syllabus already says about grading.
-4-point scale Grades in this course are assigned and calculated using Hofstra&amp;rsquo;s 4-point scale (described here in the Hofstra Bulletin). Following the Bulletin, the alphabetical grades, including plus (+) and minus (–), have the following 4-point scale values (and vice versa):
-letter 4pt Student’s academic performance … A 4.0 “was of honors level.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://chreliot.github.io/phi152/notes/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
