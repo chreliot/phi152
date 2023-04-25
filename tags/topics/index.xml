@@ -6,29 +6,59 @@
     <description>Recent content in topics on PHI 152</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Apr 2023 10:46:21 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/tags/topics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Apr 2023 11:33:41 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi152/tags/topics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Topic 7: Randomized Controlled Trials</title>
-      <link>http://chreliot.github.io/phi152/topics/rcts/</link>
-      <pubDate>Tue, 25 Apr 2023 10:46:21 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/topics/rcts/</guid>
-      <description>Reading “Randomized Experimental Design,” section 8.2 of Giere et al. Understanding Scientific Reasoning “Understanding and Misunderstanding Randomized Controlled Trials” by Angus Deaton and Nancy Cartwright. Social Science &amp;amp; Medicine 210:2–21 (August 2018). Read the abstract, sections 2.2, 3.2, 3.7, 3.8, and 4. “Prospective Designs” through “Retrospective Designs,” sections 8.5–8.7 of Giere et al. Understanding Scientific Reasoning See also “Randomized Controlled Trials and Evidence-Based Medicine,” section 5 of “Philosophy of Medicine,” by Julian Reiss and Rachel Ankeny in the Stanford Encyclopedia of Philosophy Learning questions What is the standard way of studying causation in populations?</description>
-    </item>
-    
-    <item>
-      <title>Topic 8: Wrap Up</title>
+      <title>Topic 9: Wrap Up</title>
       <link>http://chreliot.github.io/phi152/topics/wrap-up/</link>
-      <pubDate>Tue, 10 May 2022 14:03:11 -0400</pubDate>
+      <pubDate>Tue, 25 Apr 2023 11:33:41 -0400</pubDate>
       
       <guid>http://chreliot.github.io/phi152/topics/wrap-up/</guid>
       <description>Reading Aschwanden, Christie. 2019. “Just So Science.” Chapter 1 of Good to Go What the Athlete in All of Us Can Learn from the Strange Science of Recovery. W. W. Norton &amp;amp; Co. Available on Blackboard &amp;gt; Course Documents. </description>
     </item>
     
     <item>
+      <title>Topic 8: Decision Theory</title>
+      <link>http://chreliot.github.io/phi152/topics/decision-theory/</link>
+      <pubDate>Tue, 25 Apr 2023 11:33:32 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/decision-theory/</guid>
+      <description>Decision theory offers a framework for using knowledge to make decisions. To do this, it offers a way of integrating probabilities and values. And it offers some guidelines for choosing different probability/value combinations under different conditions.
+Reading Hacking, “Expected Value,” chapter 8 of Introduction to Probability and Inductive Logic. Read pages 79–82 with care. Hacking, “Maximizing Expected Value,” chapter 9 of Introduction to Probability and Inductive Logic. Read pages 98–108. Hacking, “Decision under Uncertainty,” chapter 10 of Introduction to Probability and Inductive Logic Optional reading I&amp;rsquo;ve selected 15 total pages for you from Chapters 8–9, but there is a lot else that&amp;rsquo;s interesting in those chapters.</description>
+    </item>
+    
+    <item>
+      <title>Topic 7: Randomized Controlled Trials</title>
+      <link>http://chreliot.github.io/phi152/topics/rcts/</link>
+      <pubDate>Tue, 25 Apr 2023 11:33:25 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/rcts/</guid>
+      <description>Reading “Randomized Experimental Design,” section 8.2 of Giere et al. Understanding Scientific Reasoning “Understanding and Misunderstanding Randomized Controlled Trials” by Angus Deaton and Nancy Cartwright. Social Science &amp;amp; Medicine 210:2–21 (August 2018). Read the abstract, sections 2.2, 3.2, 3.7, 3.8, and 4. “Prospective Designs” through “Retrospective Designs,” sections 8.5–8.7 of Giere et al. Understanding Scientific Reasoning See also “Randomized Controlled Trials and Evidence-Based Medicine,” section 5 of “Philosophy of Medicine,” by Julian Reiss and Rachel Ankeny in the Stanford Encyclopedia of Philosophy Learning questions What is the standard way of studying causation in populations?</description>
+    </item>
+    
+    <item>
+      <title>Topic 6: Causation</title>
+      <link>http://chreliot.github.io/phi152/topics/causation/</link>
+      <pubDate>Tue, 25 Apr 2023 11:33:16 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/causation/</guid>
+      <description>We&amp;rsquo;ve discussed what correlations are, and how they are related to sampling from a population via basic probability ideas. But we noted that correlation isn&amp;rsquo;t causation, and that researchers are quite often interested in causation. Here we take up how it might be possible to investigate causal relationships, and some of the challenges and limitations inherent to doing that.
+Reading Kara Richardson. from “Avicenna’s Necessitation Thesis” (see Causation Readings) David Hume.</description>
+    </item>
+    
+    <item>
+      <title>Topic 5: Frequentism</title>
+      <link>http://chreliot.github.io/phi152/topics/frequentism/</link>
+      <pubDate>Tue, 25 Apr 2023 11:33:04 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi152/topics/frequentism/</guid>
+      <description>Next, we examine the second main, contemporary approach to scientific reasoning, based in the frequentist understanding of probability. At the heart of its reasoning is the “double negative” inference, based in the “probabilistic modus tollens.” The jargon name for this approach is “null hypothesis significance testing.” We will observe how and why it works, building up from some foundational concepts.
+Reading Hacking, Chapter 17 “Normal Approximations” (via Course Documents on Blackboard) Aschwanden, Christie.</description>
+    </item>
+    
+    <item>
       <title>Topic 4: Bayesianism</title>
       <link>http://chreliot.github.io/phi152/topics/bayesianism/</link>
-      <pubDate>Tue, 29 Mar 2022 12:41:15 -0400</pubDate>
+      <pubDate>Tue, 25 Apr 2023 11:32:58 -0400</pubDate>
       
       <guid>http://chreliot.github.io/phi152/topics/bayesianism/</guid>
       <description>Bayesianism, as an approach to inductive reasoning, focuses on updating our beliefs in light of new evidence. It is built around a simple formula that expresses a relationship between probabilities.
@@ -64,36 +94,6 @@ Reading Francis Bacon, The New Organon (1620). Read Book 2, sections 10–16 (bo
       <description>Does science have a logic? Could it be what we call “deductive logic,” (which is the focus of other courses like PHI 154 Symbolic Logic)? What is deductive logic? Is non-deductive logic possible? What could “inductive logic” be? Could it be the logic of science?
 Reading (This is what you should read for this section. The due dates appear on the front page schedule.)
 Salmon, Wesley C. “The Scope of Logic,” chapter 1 of Logic, 1984.</description>
-    </item>
-    
-    <item>
-      <title>Topic 8: Decision Theory</title>
-      <link>http://chreliot.github.io/phi152/topics/decision-theory/</link>
-      <pubDate>Wed, 05 May 2021 14:30:06 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/topics/decision-theory/</guid>
-      <description>Decision theory offers a framework for using knowledge to make decisions. To do this, it offers a way of integrating probabilities and values. And it offers some guidelines for choosing different probability/value combinations under different conditions.
-Reading Hacking, “Expected Value,” chapter 8 of Introduction to Probability and Inductive Logic. Read pages 79–82 with care. Hacking, “Maximizing Expected Value,” chapter 9 of Introduction to Probability and Inductive Logic. Read pages 98–108. Hacking, “Decision under Uncertainty,” chapter 10 of Introduction to Probability and Inductive Logic Optional reading I&amp;rsquo;ve selected 15 total pages for you from Chapters 8–9, but there is a lot else that&amp;rsquo;s interesting in those chapters.</description>
-    </item>
-    
-    <item>
-      <title>Topic 5: Frequentism</title>
-      <link>http://chreliot.github.io/phi152/topics/frequentism/</link>
-      <pubDate>Tue, 23 Feb 2021 14:43:16 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/topics/frequentism/</guid>
-      <description>Next, we examine the second main, contemporary approach to scientific reasoning, based in the frequentist understanding of probability. At the heart of its reasoning is the “double negative” inference, based in the “probabilistic modus tollens.” The jargon name for this approach is “null hypothesis significance testing.” We will observe how and why it works, building up from some foundational concepts.
-Reading Hacking, Chapter 17 “Normal Approximations” (via Course Documents on Blackboard) Aschwanden, Christie.</description>
-    </item>
-    
-    <item>
-      <title>Topic 6: Causation</title>
-      <link>http://chreliot.github.io/phi152/topics/causation/</link>
-      <pubDate>Fri, 24 Apr 2020 11:09:33 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi152/topics/causation/</guid>
-      <description>We&amp;rsquo;ve discussed what correlations are, and how they are related to sampling from a population via basic probability ideas. But we noted that correlation isn&amp;rsquo;t causation, and that researchers are quite often interested in causation. Here we take up how it might be possible to investigate causal relationships, and some of the challenges and limitations inherent to doing that.
-Reading Kara Richardson. from “Avicenna’s Necessitation Thesis” (see Causation Readings) David Hume.</description>
     </item>
     
   </channel>
