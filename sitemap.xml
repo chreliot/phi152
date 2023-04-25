@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://chreliot.github.io/phi152/tags/</loc>
+    <lastmod>2023-04-25T15:29:30+00:00</lastmod>
+  </url><url>
+    <loc>http://chreliot.github.io/phi152/topics/rcts/</loc>
+    <lastmod>2023-04-25T15:29:11+00:00</lastmod>
+  </url><url>
+    <loc>http://chreliot.github.io/phi152/tags/topics/</loc>
+    <lastmod>2023-04-25T15:29:30+00:00</lastmod>
+  </url><url>
+    <loc>http://chreliot.github.io/phi152/topics/</loc>
+    <lastmod>2023-04-25T15:29:30+00:00</lastmod>
+  </url><url>
     <loc>http://chreliot.github.io/phi152/notes/nhst-into-causation/</loc>
     <lastmod>2023-04-12T17:31:34+00:00</lastmod>
   </url><url>
@@ -11,9 +23,6 @@
     <loc>http://chreliot.github.io/phi152/notes/</loc>
     <lastmod>2023-04-12T17:31:34+00:00</lastmod>
   </url><url>
-    <loc>http://chreliot.github.io/phi152/tags/</loc>
-    <lastmod>2023-04-12T17:31:34+00:00</lastmod>
-  </url><url>
     <loc>http://chreliot.github.io/phi152/notes/frequentism1/</loc>
     <lastmod>2023-03-29T12:36:10+00:00</lastmod>
   </url><url>
@@ -21,19 +30,13 @@
     <lastmod>2023-03-29T17:29:55+00:00</lastmod>
   </url><url>
     <loc>http://chreliot.github.io/phi152/</loc>
-    <lastmod>2023-03-27T14:58:29+00:00</lastmod>
+    <lastmod>2023-04-25T15:29:11+00:00</lastmod>
   </url><url>
     <loc>http://chreliot.github.io/phi152/notes/mid-semester-advisories/</loc>
     <lastmod>2023-01-19T17:49:31+00:00</lastmod>
   </url><url>
     <loc>http://chreliot.github.io/phi152/topics/wrap-up/</loc>
     <lastmod>2022-05-10T18:06:03+00:00</lastmod>
-  </url><url>
-    <loc>http://chreliot.github.io/phi152/tags/topics/</loc>
-    <lastmod>2023-04-12T13:28:38+00:00</lastmod>
-  </url><url>
-    <loc>http://chreliot.github.io/phi152/topics/</loc>
-    <lastmod>2023-04-12T13:28:38+00:00</lastmod>
   </url><url>
     <loc>http://chreliot.github.io/phi152/topics/bayesianism/</loc>
     <lastmod>2022-04-05T16:53:44+00:00</lastmod>
@@ -60,7 +63,7 @@
     <lastmod>2023-01-31T15:11:51+00:00</lastmod>
   </url><url>
     <loc>http://chreliot.github.io/phi152/topics/decision-theory/</loc>
-    <lastmod>2021-05-17T18:42:00+00:00</lastmod>
+    <lastmod>2023-04-25T15:29:11+00:00</lastmod>
   </url><url>
     <loc>http://chreliot.github.io/phi152/tests/test-1/</loc>
     <lastmod>2023-03-13T13:16:32+00:00</lastmod>
@@ -81,7 +84,7 @@
     <lastmod>2022-01-31T03:03:15+00:00</lastmod>
   </url><url>
     <loc>http://chreliot.github.io/phi152/topics/causation/</loc>
-    <lastmod>2023-04-12T13:16:31+00:00</lastmod>
+    <lastmod>2023-04-25T15:29:30+00:00</lastmod>
   </url><url>
     <loc>http://chreliot.github.io/phi152/posts/</loc>
     <lastmod>2022-02-12T21:34:25+00:00</lastmod>
